@@ -17,3 +17,6 @@ Write an SQL query that reports the first login date for each player.
 
 
 The query result format is in the following example:
+
+
+[2020-08-03-032157.png](https://postimg.cc/T5h8zK5V)
