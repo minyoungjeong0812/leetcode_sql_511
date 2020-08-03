@@ -1,4 +1,5 @@
 # leetcode_sql_511
+https://code.dennyzhang.com/game-play-analysis-i
 
 Table: Activity
 
